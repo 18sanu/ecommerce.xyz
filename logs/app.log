@@ -1,0 +1,14 @@
+[INFO ] 2022-07-24 12:49:02.463 [main] BaseClass - server started
+[INFO ] 2022-07-24 12:49:30.867 [main] LoggingUtils - app started successfully
+[INFO ] 2022-07-24 12:49:32.406 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-24 12:49:32.827 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-24 12:49:37.651 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-24 12:49:41.428 [main] LoggingUtils - performing scroll 
+[INFO ] 2022-07-24 12:53:08.551 [main] BaseClass - server started
+[INFO ] 2022-07-24 12:53:23.976 [main] BaseClass - app started successfully
+[INFO ] 2022-07-24 12:53:24.675 [main] MobileDriverUtility - clicked on agree button
+[INFO ] 2022-07-24 12:53:25.232 [main] MobileDriverUtility - clicked on skip button
+[INFO ] 2022-07-24 12:53:28.900 [main] MobileDriverUtility - clicked on cancel button
+[INFO ] 2022-07-24 12:53:32.595 [main] MobileDriverUtility - performing scroll 
+[INFO ] 2022-07-24 12:53:56.212 [main] BaseClass - app closed
+[INFO ] 2022-07-24 12:53:56.386 [main] BaseClass - server stopped

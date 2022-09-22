@@ -1,0 +1,78 @@
+[INFO ] 2022-07-21 10:34:35.781 [main] BaseClass - this is info message
+[ERROR] 2022-07-21 10:34:35.818 [main] BaseClass - this is eror message
+[WARN ] 2022-07-21 10:34:35.818 [main] BaseClass - this is warn message
+[INFO ] 2022-07-21 10:35:44.885 [main] binary data logger - clicked on Located by By.chained({By.id: com.justdial.search:id/terms_accept_btn})
+[INFO ] 2022-07-21 10:35:45.166 [main] binary data logger - clicked on Located by By.chained({By.id: button_skip})
+[INFO ] 2022-07-21 10:35:48.739 [main] binary data logger - clicked on Located by By.chained({By.xpath: //android.widget.Button[@text='CANCEL']})
+[INFO ] 2022-07-21 10:35:52.397 [main] binary data logger - performing scroll 
+[INFO ] 2022-07-21 10:35:58.353 [main] binary data logger - clicked on Located by By.chained({By.xpath: //android.widget.TextView[@text='Top Hotels']})
+[INFO ] 2022-07-21 10:36:01.571 [main] binary data logger - clicked on Located by By.chained({By.xpath: //android.widget.TextView[@text='The Leela Palace']})
+[INFO ] 2022-07-21 10:36:06.696 [main] binary data logger - clicked on Located by By.chained({By.xpath: //android.widget.TextView[@resource-id='com.justdial.search:id/tvCount']})
+[INFO ] 2022-07-21 11:16:23.393 [main] binary data logger - clicked on tapping on agree button
+[INFO ] 2022-07-21 11:16:24.234 [main] binary data logger - clicked on tapping on skip button
+[INFO ] 2022-07-21 11:16:28.973 [main] binary data logger - clicked on tapping on cancel button
+[INFO ] 2022-07-21 11:16:32.374 [main] binary data logger - performing scroll 
+[INFO ] 2022-07-21 11:26:12.582 [main] binary data logger - clicked on agree button
+[INFO ] 2022-07-21 11:26:13.405 [main] binary data logger - clicked on skip button
+[INFO ] 2022-07-21 11:26:17.428 [main] binary data logger - clicked on cancel button
+[INFO ] 2022-07-21 11:26:21.168 [main] binary data logger - performing scroll 
+[INFO ] 2022-07-21 11:26:26.789 [main] binary data logger - performing tap action
+[INFO ] 2022-07-21 11:26:30.480 [main] binary data logger - performing tap action
+[INFO ] 2022-07-21 11:26:37.391 [main] binary data logger - performing tap action
+[INFO ] 2022-07-21 11:36:26.831 [main] binary data logger - clicked on agree button
+[INFO ] 2022-07-21 11:36:27.650 [main] binary data logger - clicked on skip button
+[INFO ] 2022-07-21 11:36:33.189 [main] binary data logger - clicked on cancel button
+[INFO ] 2022-07-21 11:36:36.667 [main] binary data logger - performing scroll 
+[INFO ] 2022-07-21 11:36:48.078 [main] binary data logger - performing tap action
+[INFO ] 2022-07-21 11:36:51.330 [main] binary data logger - performing tap action
+[INFO ] 2022-07-21 11:36:54.811 [main] binary data logger - performing tap action
+[INFO ] 2022-07-21 11:48:56.621 [main] binary data logger - clicked on agree button
+[INFO ] 2022-07-21 11:48:56.931 [main] binary data logger - clicked on skip button
+[INFO ] 2022-07-21 11:49:01.907 [main] binary data logger - clicked on cancel button
+[INFO ] 2022-07-21 11:49:05.604 [main] binary data logger - performing scroll 
+[INFO ] 2022-07-21 11:59:59.792 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 12:00:01.163 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 12:00:05.674 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-21 13:46:58.355 [main] LoggingUtils - server started
+[INFO ] 2022-07-21 13:47:04.693 [main] LoggingUtils - server stopped
+[INFO ] 2022-07-21 13:56:14.057 [main] LoggingUtils - server started
+[INFO ] 2022-07-21 13:56:20.408 [main] LoggingUtils - server stopped
+[INFO ] 2022-07-21 13:59:21.825 [main] LoggingUtils - server started
+[INFO ] 2022-07-21 13:59:45.175 [main] LoggingUtils - app started successfully
+[INFO ] 2022-07-21 13:59:46.188 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 13:59:47.174 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 13:59:52.181 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-21 13:59:55.865 [main] LoggingUtils - performing scroll 
+[INFO ] 2022-07-21 14:00:40.639 [main] LoggingUtils - server started
+[INFO ] 2022-07-21 14:00:58.690 [main] LoggingUtils - app started successfully
+[INFO ] 2022-07-21 14:00:59.551 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 14:01:00.043 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 14:06:25.334 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 14:06:26.274 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 14:06:29.725 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-21 14:06:33.234 [main] LoggingUtils - performing scroll 
+[INFO ] 2022-07-21 14:09:54.293 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 14:09:55.436 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 14:09:58.743 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-21 14:10:02.442 [main] LoggingUtils - performing scroll 
+[INFO ] 2022-07-21 14:10:08.019 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:10:11.807 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:10:19.834 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:12:35.428 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 14:12:36.396 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 14:12:40.406 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-21 14:12:44.067 [main] LoggingUtils - performing scroll 
+[INFO ] 2022-07-21 14:12:50.693 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:12:54.007 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:12:57.751 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:19:57.221 [main] LoggingUtils - server started
+[INFO ] 2022-07-21 14:20:14.202 [main] LoggingUtils - app started successfully
+[INFO ] 2022-07-21 14:20:15.604 [main] LoggingUtils - clicked on agree button
+[INFO ] 2022-07-21 14:20:16.019 [main] LoggingUtils - clicked on skip button
+[INFO ] 2022-07-21 14:20:19.761 [main] LoggingUtils - clicked on cancel button
+[INFO ] 2022-07-21 14:20:23.332 [main] LoggingUtils - performing scroll 
+[INFO ] 2022-07-21 14:20:28.575 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:20:31.338 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:20:34.728 [main] LoggingUtils - performing tap action
+[INFO ] 2022-07-21 14:20:38.565 [main] LoggingUtils - app closed
+[INFO ] 2022-07-21 14:20:38.695 [main] LoggingUtils - server stopped
